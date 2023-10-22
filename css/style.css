@@ -5,3 +5,32 @@
     overflow: hidden;
 }
 
+.container h1, h2, p{
+    color: black;
+}
+.carousel-caption{
+    color: black;
+}
+body{
+    background-color: lightgray;
+}
+#cap h1{
+    color: blue;
+}
+
+.carousel-caption{
+    color: blue;
+    padding-left: 3vw;
+    margin-bottom: 3vh;
+}
+.carousel-caption h1{
+    margin-bottom: 2vh;
+    font-size: 3vh;
+}
+.carousel-caption p{
+    font-size: 2vh;
+}
+
+
+
+

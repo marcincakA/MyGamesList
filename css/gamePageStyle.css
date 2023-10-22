@@ -1,0 +1,7 @@
+body{
+    background-color: lightgray;
+}
+
+.img-fluid  img{
+    object-fit: cover;
+}
