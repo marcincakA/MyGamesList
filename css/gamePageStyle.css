@@ -5,3 +5,6 @@ body{
 .img-fluid  img{
     object-fit: cover;
 }
+
+.btn-group{
+}
