@@ -6,10 +6,31 @@ body{
     object-fit: cover;
 }
 
-.btn-group{
-}
-
 .row_rating p{
     color: blue;
     font-size: 3vh;
+}
+
+.about h2{
+    text-align: center;
+    border-width: 5px !important;
+    border: solid;
+    border-color: rgb(128, 128, 128);
+    border-bottom: none;
+    border-top-left-radius: 1vh;
+    border-top-right-radius: 1vh;
+}
+
+.about p{
+    text-align: center;
+    border-width: 5px !important;
+    border: solid;
+    border-color: rgb(128, 128, 128);
+}
+
+.riadok{
+    border-width: 5px !important;
+    border: solid;
+    border-color: rgb(128, 128, 128);
+    border-radius: 1vh;
 }

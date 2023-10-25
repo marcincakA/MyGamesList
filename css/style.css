@@ -14,9 +14,6 @@
 body{
     background-color: lightgray;
 }
-#cap h1{
-    color: blue;
-}
 
 .carousel-caption{
     color: blue;
@@ -26,17 +23,13 @@ body{
 .carousel-caption h1{
     margin-bottom: 2vh;
     font-size: 3vh;
+    color: darksalmon;
 }
 .carousel-caption p{
     font-size: 2vh;
 }
 
-.riadok{
-    border-width: 5px !important;
-    border: solid;
-    border-color: rgb(128, 128, 128);
-    border-radius: 1vh;
-}
+
 
 
 
