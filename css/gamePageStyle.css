@@ -8,3 +8,8 @@ body{
 
 .btn-group{
 }
+
+.row_rating p{
+    color: blue;
+    font-size: 3vh;
+}
